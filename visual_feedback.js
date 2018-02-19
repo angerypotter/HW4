@@ -1,3 +1,8 @@
+// I think the code at the bottom should make it work.
+// I couldn't get the code to do anything from the start
+// I pasted the initial code and got nothing at all
+// Sooooo I'm stumped
+
 var freqA = 174;
 var freqS = 196;
 var freqD = 220;
