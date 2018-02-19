@@ -1,0 +1,13 @@
+1)  It is similair to a folder in that it is a container for other pieces of code 
+    var circle={
+    x:4,
+    y:9,
+
+2)  Using a dot syntax  
+    whatEver(circle.x)
+   
+3)  zero
+
+4) varible name [2]
+
+5)  Im not entirely sure how to explain this one.  I kinda get it but not really.
